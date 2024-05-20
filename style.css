@@ -3,6 +3,11 @@
     justify-content: space-between;
 }
 
+body {
+    width: 75%;
+    margin: auto;
+}
+
 ul {
     display: flex;
     padding: 0;
