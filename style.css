@@ -57,6 +57,7 @@
 
 .fourth {
     background-color: #3882F6;
+    border-radius: 5px;
     color: #F9FAF8;
     display: flex;
     justify-content: space-around;
