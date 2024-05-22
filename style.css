@@ -10,6 +10,14 @@
     color:#F9FAF8;
 }
 
+.placeholder {
+    box-sizing: border-box;
+    width: 300px;
+    background-color: gray;
+    color:#F9FAF8;
+    padding: 70px 90px;
+}
+
 .top, .footer {
     background-color: #1F2937;
 }
