@@ -18,6 +18,13 @@
     padding: 70px 90px;
 }
 
+.item {
+    max-width: 100px;
+    text-align: center;
+    font-size: 11px;
+    color: gray;
+}
+
 .top, .footer {
     background-color: #1F2937;
 }
