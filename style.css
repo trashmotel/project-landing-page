@@ -5,6 +5,7 @@
 }
 
 .top {
+    align-self: stretch;
     padding: 16px 275px 75px;
 }
 
