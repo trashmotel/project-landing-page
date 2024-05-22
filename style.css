@@ -5,7 +5,7 @@
 }
 
 .top {
-    padding: 16px 50px 75px;
+    padding: 16px 275px 75px;
 }
 
 .header {
@@ -20,7 +20,7 @@
 
 .placeholder {
     box-sizing: box;
-    width: 300px;
+    width: 600px;
     background-color: gray;
     color: #F9FAF8;
     padding: 70px 90px;
