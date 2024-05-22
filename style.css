@@ -40,6 +40,10 @@
     color: #E5E7EB;
 }
 
+.container {
+    display: flex;
+}
+
 .third {
     background-color: #E5E7EB;
 }
