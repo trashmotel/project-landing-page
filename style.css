@@ -55,6 +55,16 @@
     font-weight: 700;
 }
 
+.fourth {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+}
+
+#action {
+    border: 2px solid #F9FAF8;
+}
+
 body {
     font-family: "Roboto";
     /* width: 75%;
