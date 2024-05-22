@@ -59,10 +59,12 @@
     background-color: #3882F6;
     color: #F9FAF8;
     display: flex;
+    justify-content: space-around;
 }
 
 #action {
     border: 2px solid #F9FAF8;
+    align-self: center;
 }
 
 body {
