@@ -4,6 +4,10 @@
     background-color: #1F2937;
 }
 
+.top {
+    padding: 16px 50px 75px;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
