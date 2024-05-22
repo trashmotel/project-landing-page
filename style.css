@@ -48,6 +48,8 @@
 
 .third {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote {
@@ -59,6 +61,7 @@
 
 .author {
     font-weight: 700;
+    align-self: flex-end;
 }
 
 .fourth {
