@@ -4,6 +4,10 @@
     background-color: #1F2937;
 }
 
+.logo, .placeholder, .fourth, .footer, h1, button {
+    color: #F9FAF8;
+}
+
 .top {
     align-self: stretch;
     padding: 16px 300px 75px;
@@ -18,7 +22,6 @@
 .logo {
     font-size: 24px;
     font-weight: bold;
-    color: #F9FAF8;
 }
 
 .placeholder {
@@ -27,7 +30,6 @@
     align-self: center;
     text-align: center;
     background-color: gray;
-    color: #F9FAF8;
     padding: 70px 90px;
 }
 
@@ -86,7 +88,6 @@
 .fourth {
     background-color: #3882F6;
     border-radius: 10px;
-    color: #F9FAF8;
     display: flex;
     gap: 150px;
     margin: 70px;
@@ -109,7 +110,6 @@
 }
 
 .footer {
-    color: #E5E7EB;
     padding: 40px;
     align-self: stretch;
     text-align: center;
@@ -126,7 +126,6 @@ body {
 h1 {
     font-size: 48px;
     font-weight: 800;
-    color: #F9FAF8;
     margin: 0;
 }
 
@@ -146,7 +145,6 @@ button {
     font-size: 16px;
     font-weight: bold;
     background-color: #3882F6;
-    color: #F9FAF8;
 }
 
 a {
