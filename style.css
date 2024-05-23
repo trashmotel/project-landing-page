@@ -92,6 +92,13 @@
     padding: 20px 128px;
 }
 
+.call-to {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
 #action {
     border: 2px solid #F9FAF8;
     align-self: center;
