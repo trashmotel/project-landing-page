@@ -87,6 +87,7 @@
     border-radius: 5px;
     color: #F9FAF8;
     display: flex;
+    gap: 150px;
     margin: 70px;
 }
 
