@@ -42,17 +42,17 @@
     margin: 32px;
 }
 
-.item {
-    max-width: 100px;
-    text-align: center;
-    font-size: 11px;
-    color: gray;
-}
-
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
     margin-top: 0;
+}
+
+.item {
+    max-width: 150px;
+    text-align: center;
+    font-size: 16px;
+    color: gray;
 }
 
 .container {
