@@ -89,6 +89,7 @@
     display: flex;
     gap: 150px;
     margin: 70px;
+    padding: 20px 128px;
 }
 
 #action {
