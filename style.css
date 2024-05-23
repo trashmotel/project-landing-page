@@ -97,7 +97,10 @@
     font-weight: bold;
 }
 
-
+.signup {
+    margin: 0;
+    color: #E5E7EB;
+}
 
 #action {
     border: 2px solid #F9FAF8;
